@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\obj\Debug\net6.0\matrix for stanko.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\obj\Debug\net6.0\matrix for stanko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\obj\Debug\net6.0\matrix for stanko.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\obj\Debug\net6.0\matrix for stanko.AssemblyInfo.cs
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\obj\Debug\net6.0\matrix for stanko.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\bin\Debug\net6.0\matrix for stanko.exe
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\bin\Debug\net6.0\matrix for stanko.deps.json
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\bin\Debug\net6.0\matrix for stanko.runtimeconfig.json
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\bin\Debug\net6.0\matrix for stanko.dll
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\bin\Debug\net6.0\matrix for stanko.pdb
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\obj\Debug\net6.0\matrix for stanko.dll
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\obj\Debug\net6.0\refint\matrix for stanko.dll
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\obj\Debug\net6.0\matrix for stanko.pdb
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\obj\Debug\net6.0\matrix for stanko.genruntimeconfig.cache
+C:\Users\pc\source\repos\matrix for stanko\matrix for stanko\obj\Debug\net6.0\ref\matrix for stanko.dll
